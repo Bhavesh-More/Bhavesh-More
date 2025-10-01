@@ -13,41 +13,55 @@ Hi! I’m a passionate Fullstack Developer and GameDev & AI/ML enthusiast. I lov
 ![React Native](https://go-skill-icons.vercel.app/api/icons?i=reactnative) ![Node.js](https://go-skill-icons.vercel.app/api/icons?i=nodejs) ![MongoDB](https://go-skill-icons.vercel.app/api/icons?i=mongodb) ![Python](https://go-skill-icons.vercel.app/api/icons?i=python) ![TailwindCSS](https://go-skill-icons.vercel.app/api/icons?i=tailwind) ![GSAP](https://go-skill-icons.vercel.app/api/icons?i=gsap) ![Three.js](https://go-skill-icons.vercel.app/api/icons?i=threejs)    
 
 ---
-
 ## 📌 Featured Projects  
 
-### 🔹 [Fuolo](#)  
-⚡ A smart fuel station locator app  
-- React Native + Expo + Node.js backend  
-- Real-time station availability & management  
-- Admin + User apps  
-
----
-
-### 🔹 [3D Porsche Showcase](#)  
-🏎️ Interactive 3D Porsche model viewer  
-- Built with **three.js** and **GSAP**  
-- Click-to-rotate and zoom camera interactions  
-- Realistic lighting and material effects    
-
----
-
-### 🔹 [Porject DOUR](#)  
-🏠 Interactive 3D house model exploration  
-- Built with **React Three Fiber**  
-- Walkthrough-style camera navigation and zoom  
-- Interactive hotspots to highlight key areas  
-
----
-
-### 🔹 [2D Metaverse for Team Meetings](#)  
-👾 Virtual meeting space with tilemap & avatars *(Currently Working On)*  
-- Built with **Phaser** + **WebSockets**  
-- Login & team-based rooms  
-- Customizable character movement  
-- Focused on creating an engaging 2D collaborative environment  
-
----
+<table style="border-spacing: 20px; border-collapse: separate; width:100%;">
+  <tr>
+    <td align="center" width="50%" style="padding:20px; border:1px solid #ddd; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
+      <b>Fuolo</b><br/>
+      ⚡ A smart fuel station locator app  
+      <br/><br/>
+      - React Native + Expo + Node.js backend  
+      - Real-time station availability & management  
+      - Admin + User apps  
+      <br/><br/>🔒 Private Repo  
+      <br/><sub>Tags: React Native, Expo, Node.js, MongoDB</sub>
+    </td>
+    <td align="center" width="50%" style="padding:20px; border:1px solid #ddd; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
+      <b>3D Porsche Showcase</b><br/>
+      🏎️ Interactive 3D Porsche model viewer  
+      <br/><br/>
+      - Built with three.js and GSAP  
+      - Click-to-rotate and zoom camera interactions  
+      - Realistic lighting and material effects  
+      <br/><br/>🔗 <a href="https://github.com/your-username/porsche-showcase">Public Repo</a>  
+      <br/><sub>Tags: Three.js, GSAP, 3D Web</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="padding:15px; border:1px solid #ddd; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
+      <b>Project DOUR</b><br/>
+      🏠 Interactive 3D house model exploration  
+      <br/><br/>
+      - Built with React Three Fiber  
+      - Walkthrough-style camera navigation and zoom  
+      - Interactive hotspots to highlight key areas  
+      <br/><br/>🔒 Private Repo  
+      <br/><sub>Tags: React Three Fiber, 3D Navigation</sub>
+    </td>
+    <td align="center" width="50%" style="padding:20px; border:1px solid #ddd; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
+      <b>2D Metaverse for Team Meetings</b><br/>
+      👾 Virtual meeting space with tilemap & avatars *(Currently Working On)*  
+      <br/><br/>
+      - Built with Phaser + WebSockets  
+      - Login & team-based rooms  
+      - Customizable character movement  
+      - Focused on creating an engaging 2D collaborative environment  
+      <br/><br/>🔒 Private Repo  
+      <br/><sub>Tags: Phaser, WebSockets, Multiplayer</sub>
+    </td>
+  </tr>
+</table>
 
 
 ## 📫 Connect with Me  
