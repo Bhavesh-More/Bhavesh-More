@@ -34,7 +34,7 @@ Hi! I’m a passionate Fullstack Developer and GameDev & AI/ML enthusiast. I lov
       - Built with three.js and GSAP  
       - Click-to-rotate and zoom camera interactions  
       - Realistic lighting and material effects  
-      <br/><br/>🔗 <a href="https://github.com/your-username/porsche-showcase">Public Repo</a>  
+      <br/><br/>🔗 <a href="https://github.com/divyanshu-patil/Porsche-website">Public Repo</a>  
       <br/><sub>Tags: Three.js, GSAP, 3D Web</sub>
     </td>
   </tr>
