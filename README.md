@@ -1,5 +1,5 @@
 # Bhavesh More
-**`💻 Fullstack Developer | GameDev & AI/ML Explorer `**
+**`Fullstack Developer | GameDev & AI/ML Explorer `**
 ---
 Hi! I’m a passionate Fullstack Developer and GameDev & AI/ML enthusiast. I love building interactive websites, apps, games, and experimenting with AI/ML. Skilled in React, Node.js, Python, React Native, and MongoDB, I’m constantly learning new technologies to create innovative solutions and collaborate on exciting projects.
 
@@ -8,12 +8,12 @@ Hi! I’m a passionate Fullstack Developer and GameDev & AI/ML enthusiast. I lov
 - Fullstack experience with **React, Node.js, MongoDB, React Native**  
 - Currently learning **AI/ML** and **Game Development**
   
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 ![React Native](https://go-skill-icons.vercel.app/api/icons?i=reactnative) ![Node.js](https://go-skill-icons.vercel.app/api/icons?i=nodejs) ![MongoDB](https://go-skill-icons.vercel.app/api/icons?i=mongodb) ![Python](https://go-skill-icons.vercel.app/api/icons?i=python) ![TailwindCSS](https://go-skill-icons.vercel.app/api/icons?i=tailwind) ![GSAP](https://go-skill-icons.vercel.app/api/icons?i=gsap) ![Three.js](https://go-skill-icons.vercel.app/api/icons?i=threejs)    
 
 ---
-## 📌 Featured Projects  
+## Featured Projects  
 
 <table style="border-spacing: 20px; border-collapse: separate; width:100%;">
   <tr>
@@ -64,18 +64,10 @@ Hi! I’m a passionate Fullstack Developer and GameDev & AI/ML enthusiast. I lov
 </table>
 
 
-## 📫 Connect with Me  
+## Connect with Me  
 
 - 📧 Email: **bhaveshmmore2006@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/bhavesh-more](https://linkedin.com/in/bhavesh-moree)  
 
----
 
-## ⚡ Fun Facts  
-- 🎮 Gamer at heart  
-- 🧩 Love solving real-world problems with code  
-- 🌌 Always curious about **new tech and creative coding**  
-
----
-
-⭐️ From [Bhavesh More](#)
+From [Bhavesh More](#)
